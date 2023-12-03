@@ -1,5 +1,5 @@
-import "@/app/ui/global.css";
-import { inter } from "./ui/fonts";
+import "@/app/components/global.css";
+import { inter } from "./components/fonts";
 
 export default function RootLayout({
   children,
